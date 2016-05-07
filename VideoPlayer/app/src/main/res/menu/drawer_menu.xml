@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menu_group_1">
+        <item
+            android:id="@+id/menu_local"
+            android:icon="@drawable/img_local"
+            android:title="本地视频" />
+        <item
+            android:id="@+id/menu_network"
+            android:icon="@drawable/img_network"
+            android:title="网络视频" />
+        <item
+            android:id="@+id/menu_video"
+            android:icon="@drawable/img_video_play"
+            android:title="视频区" />
+        <item
+            android:id="@+id/menu_popular"
+            android:icon="@drawable/ic_global_menu_popular"
+            android:title="Popular" />
+        <item
+            android:id="@+id/menu_photos_nearby"
+            android:icon="@drawable/ic_global_menu_nearby"
+            android:title="Photos Nearby" />
+        <item
+            android:id="@+id/menu_photo_you_liked"
+            android:icon="@drawable/ic_global_menu_likes"
+            android:title="Photos You've Liked" />
+    </group>
+    <group android:id="@+id/menu_group_2">
+        <item
+            android:id="@+id/menu_settings"
+            android:title="设置" />
+        <item
+            android:id="@+id/menu_about"
+            android:title="关于" />
+    </group>
+</menu>

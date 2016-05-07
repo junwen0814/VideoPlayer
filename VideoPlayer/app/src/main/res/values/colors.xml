@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bk_title_bg">#F4BB00</color> //搜索栏背景
+    <color name="bk_title_edt_bg">#F7C832</color> //搜索栏EditText背景
+    <color name="bk_options_orange_tv_bg">#FBA317</color> //选项卡文字颜色，橙色
+    <color name="bk_options_grey_tv_bg">#BBBBBB</color> //选项卡文字颜色，灰色
+    <color name="white">#ffffff</color> //选项卡文字颜色，灰色
+    <color name="green">#3BA94E</color> //选项卡文字颜色，灰色
+    <color name="grey">#D2D2D2</color> //文字灰色不可选
+    <color name="black">#000000</color> //文字灰色不可选
+    <color name="grey_big">#A2A2A2</color> //文字灰色，稍微深一点
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="coffct">#009688</color>
+    <color name="style_color_primary">#2d5d82</color>
+    <color name="style_color_primary_dark">#21425d</color>
+    <color name="style_color_accent">#01bcd5</color>
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+    <color name="text_like_counter">#2b5a83</color>
+    <color name="paint_color">#dddddd</color>
+</resources>
